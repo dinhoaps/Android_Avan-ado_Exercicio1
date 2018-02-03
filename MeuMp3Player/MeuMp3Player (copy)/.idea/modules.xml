@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Anderson\Desktop\MeuMp3Player\MeuMp3Player (copy)\MeuMp3Player.iml" filepath="C:\Users\Anderson\Desktop\MeuMp3Player\MeuMp3Player (copy)\MeuMp3Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeuMp3Player (copy).iml" filepath="$PROJECT_DIR$/MeuMp3Player (copy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
